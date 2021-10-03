@@ -1,5 +1,5 @@
 # Islambek 
-## Information:
+## Information:https://github.com/lab-811/movie-information.git
 ## Rating:
 
 # Zhanibek 
