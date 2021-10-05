@@ -7,8 +7,8 @@
 ## Catalog
 
 # Zhanelya
-## Recommendation:
-## Booking:
+## Recommendation: https://github.com/Janelle43/GroupProjectJava/tree/main/movie-recommendation
+## Booking:https://github.com/Janelle43/GroupProjectJava/tree/main/movie-booking
 
 
 
