@@ -1,0 +1,3 @@
+INSERT INTO movie(name, description, image) VALUES ('Shang-Chi', 'A skilled martial artist who was trained at a young age to be an assassin by his father Wenwu', 'https://nerdist.com/wp-content/uploads/2021/04/Simu-liu-shang-chi.jpeg');
+INSERT INTO movie(name, description, image) VALUES ('Black Widow', 'Female black widows are shiny black, with a red-orange hourglass pattern on their  ', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd49cszgJ4QdN4ZNe4VCFUWh8dRewGSU0nRjaR1QKMRVIIUNY6XII4SjId4PwTF7S7ye4&usqp=CAU');
+INSERT INTO movie(name, description, image) VALUES ('A Quiet Place', 'A Quiet Place Part II is a 2021 American horror film and the sequel to 2018''s ', 'https://upload.wikimedia.org/wikipedia/en/a/a0/A_Quiet_Place_film_poster.png');
