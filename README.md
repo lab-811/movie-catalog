@@ -5,6 +5,7 @@
 # Zhanibek 
 ## Account:https://github.com/25267/movie-account
 ## Catalog
+## frontend: https://github.com/25267/movies-frontend.git
 
 # Zhanelya
 ## Recommendation: https://github.com/Janelle43/GroupProjectJava/tree/main/movie-recommendation
