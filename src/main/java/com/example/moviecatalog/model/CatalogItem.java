@@ -11,6 +11,7 @@ public class CatalogItem {
 
     private Long id;
     private String name;
+    private String image;
     private String description;
     private Double rating;
 }
