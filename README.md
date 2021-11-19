@@ -1,6 +1,6 @@
 # Islambek 
-## Information:https://github.com/lab-811/movie-information.git
-## Rating: https://github.com/lab-811/movie-rating.git
+## Information:https://github.com/lab-811/movie-informtaionn-.git
+## Rating: https://github.com/lab-811/movie-ratingg.git
 
 # Zhanibek 
 ## Account:https://github.com/25267/movie-account
@@ -8,9 +8,8 @@
 ## frontend: https://github.com/25267/movies--frontend
 
 # Zhanelya
-## Recommendation: https://github.com/Janelle43/GroupProjectJava/tree/main/movie-recommendation
-## Booking:https://github.com/Janelle43/GroupProjectJava/tree/main/movie-booking
-
+## Recommendation: https://github.com/Janelle43/movie-reccom
+## Booking:https://github.com/Janelle43/movie-booking
 
 
 
