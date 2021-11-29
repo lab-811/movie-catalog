@@ -18,4 +18,5 @@
 ## auth-service: https://github.com/25267/auth-service.git 
 
 
-![image1](https://user-images.githubusercontent.com/79316925/135763236-44a3060a-90d9-4ee8-a81e-1871300f11ee.png)
+![arch](https://user-images.githubusercontent.com/79316925/143819695-f65357e1-4ffd-47bb-a63d-f61e718bf345.jpeg)
+
