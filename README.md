@@ -1,3 +1,9 @@
+Final Exam:
+
+Zhanelya - https://github.com/Janelle43/MovieComment
+Islambek - 
+Zhanibek -
+
 # Islambek 
 ## Information:https://github.com/lab-811/movie-informtaionn-.git
 ## Rating: https://github.com/lab-811/movie-ratingg.git
