@@ -1,7 +1,7 @@
 # Final Exam:
 
 ## Zhanelya - https://github.com/Janelle43/MovieComment
-## Islambek - 
+## Islambek - https://github.com/lab-811/movie-cast.git
 ## Zhanibek - https://github.com/25267/movie-genre.git
 ---------------------------------------------------------
 ---------------------------------------------------------
