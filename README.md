@@ -1,8 +1,10 @@
-Final Exam:
+# Final Exam:
 
-Zhanelya - https://github.com/Janelle43/MovieComment
-Islambek - 
-Zhanibek -
+## Zhanelya - https://github.com/Janelle43/MovieComment
+## Islambek - 
+## Zhanibek - https://github.com/25267/movie-genre.git
+---------------------------------------------------------
+---------------------------------------------------------
 
 # Islambek 
 ## Information:https://github.com/lab-811/movie-informtaionn-.git
